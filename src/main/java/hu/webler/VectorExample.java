@@ -7,7 +7,7 @@ public class VectorExample {
 
     public static void main(String[] args) {
 
-        // Create a Vector instance with an initial capacity of 3 and an increment size of 2
+        // Create a Vector instance with an initial capacity of 3 and an increment size of 3
         Vector<Integer> numbersList = new Vector<>(3, 3);
 
         // Add elements to the vector
